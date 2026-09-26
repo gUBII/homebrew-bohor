@@ -4,7 +4,7 @@ class BohorRunner < Formula
   desc "Decentralized execution runner for the Bohor autonomous coding fleet"
   homepage "https://bohor.com.au"
   url "https://github.com/gUBII/bohor-runner/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "f1086c28a1d40faeca8538a96d0a2b17ff9dcaae490a2a832388e618a40706f6"
   license "Apache-2.0"
   head "https://github.com/gUBII/bohor-runner.git", branch: "main"
 
